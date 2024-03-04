@@ -1,49 +1,18 @@
 # Food-Cafe-A-Food-Mobile-App-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/10353143/file/original-4c248bc6d108e0c94310d8c0496263b2.png?resize=1200x675)
+## 📝 How to use
 
+- Download "Expo go" on your device
 
-  
-  <p align="left">
-    <a href="https://www.youtube.com/channel/UCuJNJfjUo2i4c6n09hZTlBQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch the Tutorial on YouTube <a href="https://youtu.be/vZ5PNDpYXIk" target="_blank">Food Cafe - A Food Mobile App built using React Native, TailwindCSS, NativeWind, React Native Reanimated</a>
-    </p>
-    
-  </p>
-  
+## 🚀 Copy the link below and paste the url in your "Expo go App" to see this project
 
-## Get Started
+### on Andriod device
 
-install dev dependencies
+#### exp://u.expo.dev/update/72ad49d0-53b6-4499-9b1e-62c0c8ffc092
 
-### `npm install` or `yarn install`
+### on iOS device
 
-## Then
+#### exp://u.expo.dev/update/47414c4d-d76d-445a-ab11-d5ff501b1c50
 
-Run The app
-
-### `npm start` or `yarn start`
-
-Runs your app in development mode.
-
-Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
-
-#### `npm run ios` or `yarn run ios`
-
-Like `npm start` / `yarn start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
-
-#### `npm run android` or `yarn run android`
-
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
-
-<br />
-
-💙 If you like this project, give it a ⭐ and share it with friends!
-
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCuJNJfjUo2i4c6n09hZTlBQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/joestackss"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
-<a href="https://www.buymeacoffee.com/joestackss">☕ Buy me a coffee</a>
+# Lipeunim 🚀🚀
+# food-cafe-RN
